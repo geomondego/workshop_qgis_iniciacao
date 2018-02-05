@@ -5,7 +5,7 @@ Material do workshop de Iniciação ao QGIS realizado no âmbito do 20th Develop
 
 
 ## Apresentação
-[Ver Slides](https://)
+[Ver Slides](https://drive.google.com/file/d/18YhODwp_7FzHFm4-AGKYgn3iUazNeiNe/view?usp=sharing)
 
 ## Material para o workshop
-[Descarregar material](https://)
+[Descarregar material](https://drive.google.com/file/d/1c2jAukafFany1h6f3zq0gitO0MC5RWZs/view?usp=sharing)
